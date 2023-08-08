@@ -2,12 +2,4 @@
 
 O estudo e desenvolvimento do código advém do curso "Welcome to Machine Learning in Chemical Engineering!" 
 
-
-@book{sanchez_chanona_ganzer_2023,
-    title = {Machine Learning in Chemical Engineering},
-    author = {Sanchez Medina, Edgar Ivan and del Rio Chanona, Ehecatl Antonio and Ganzer, Caroline},
-    year = {2023},
-    publisher = {JupyterBook},
-    url = {https://edgarsmdn.github.io/MLCE_book/},
-    DOI = {10.5281/zenodo.7986905}
-}
+Referências: Sanchez Medina, Edgar Ivan; del Rio Chanona, Ehecatl Antonio; and Ganzer, Caroline. (2023). Machine Learning in Chemical Engineering (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.7986905
